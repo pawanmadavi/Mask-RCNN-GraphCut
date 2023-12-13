@@ -1,4 +1,4 @@
-# IMAGE-SEGMENTATION-WITH-MASK-RCNN-AND-GRABCUT
+# IMAGE-SEPARATION-BY-MASK-RCNN + GRABCUT Approach 
 This code is originally from https://www.pyimagesearch.com/2020/09/28/image-segmentation-with-mask-r-cnn-grabcut-and-opencv/
 we merge mask R-CNN and Grabcut for image segmentation
 The neural network was pre-trained on Ms-Coco data
